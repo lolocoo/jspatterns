@@ -1,7 +1,4 @@
-# javascript patterns
-
-## book
-#### Pro Javascript Pattern
+### Pro Javascript Pattern
 - Factory
 - Bridge
 - Composite
