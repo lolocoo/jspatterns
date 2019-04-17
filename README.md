@@ -1,2 +1,4 @@
-# jspatterns
-javascript patterns
+# javascript patterns
+
+## book
+- Pro Javascript Pattern
